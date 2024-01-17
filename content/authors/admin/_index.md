@@ -100,8 +100,8 @@ social:
 
   - icon: cv
     icon_pack: ai
-    #link:
-    url: static/uploads/resume.pdf
+    link: uploads/resume.pdf
+
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
